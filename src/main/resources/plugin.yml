@@ -1,0 +1,4 @@
+name: MainPlugin
+version: '${project.version}'
+main: me.jass.mainplugin.MainPlugin
+api-version: '1.20'
