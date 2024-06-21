@@ -9,7 +9,6 @@ import java.util.logging.Level;
 
 public final class MainPlugin extends JavaPlugin {
     private External api;
-    public static String name = "clementine";
 
     @Override
     public void onEnable() {
